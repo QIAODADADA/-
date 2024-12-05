@@ -85,4 +85,9 @@ Measured success will be characterized by the following key performance indicato
 
 - **Operational Uptime**: Time that the equipment can function uninterruptedly in service.
 
-#### 9. Future Improvements To maintain a competitive edge, several upgrades are under development: - Enhanced multi-robot coordination It embeds swarm robotics protocols, enabling cooperation in cleaning and inspection activities. - **Augmented Reality Support: AR interface development to display, in real time, overlays of the robot data combined with environmental maps to the operators. - **Edge AI for On-Device Processing: • Edge implementation to allow for much faster analysis, reducing latency or dependencies on the cloud.
+#### **9. Future Improvements To maintain a competitive edge, several upgrades are under development:**
+- **Enhanced multi-robot coordination **
+- It embeds swarm robotics protocols, enabling cooperation in cleaning and inspection activities.
+- **Augmented Reality Support: **
+- AR interface development to display, in real time, overlays of the robot data combined with environmental maps to the operators. - **Edge AI for On-Device Processing **
+- Edge implementation to allow for much faster analysis, reducing latency or dependencies on the cloud.
